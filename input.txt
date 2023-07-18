@@ -1,0 +1,4 @@
+add x5,x0,x12
+xor x21,x11,x10
+srl x14,x19,x1
+or x12,x3,x3
